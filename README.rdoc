@@ -1,6 +1,6 @@
 == README
 
-coder  manual project Application 
+coder  manual project Application
 Things you may want to cover:
 
 * Ruby version
